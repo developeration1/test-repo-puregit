@@ -1,0 +1,2812 @@
+fileFormatVersion: 2
+guid: be5602dc0759c824da521c4b3372c5dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 316
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da1dc8b2f781543a59101a656f1443
+      internalID: 149222141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 316
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47fc7edaded56647a342476818ea723
+      internalID: -162529721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 316
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e52d947083b4dc41a7467ae80b96da7
+      internalID: 2145659717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 316
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b812b393785dbe747abfd29d9d5e7801
+      internalID: 1805913818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 316
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34da2332b99f445b608bf4be53b6a2
+      internalID: -182299086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 316
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa77ab06d3c25494c95b8438e12d4b79
+      internalID: -1685815715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 317
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b4e62e19f910b408effaa70aedf616
+      internalID: -1629756123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5936ca6d68b9b4fbbe1f81711c2110
+      internalID: 2053647147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 303
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf272bc98bf8a0246bb2db3cd696754d
+      internalID: -1405443769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6990cbddebb5fdb41a34497d85607e5b
+      internalID: -2106553387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6c8db1ffa0f6145bcbe9067f0b1240
+      internalID: -1931700112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 300
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a238b56a175cb4cbdd6c1e79f22f2b
+      internalID: -1748720723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 303
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89264255059810458c648bebb07570a
+      internalID: -2138305155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e3bf68c21dc5948ad0b45e6cb1e69b
+      internalID: -1743826805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ecb0cbab831b04ebb95a96eef6acfd
+      internalID: -1985654609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64475eace8871b46b2cd82c350f7822
+      internalID: 2044977639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 292
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e63452de2da224fa4e86e3a535c976
+      internalID: 67233097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee383566e38a6084fa8c71ba855a6582
+      internalID: 81630627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 292
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53976e9a2646b443888adb87e162ddc
+      internalID: -650391020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 292
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a915e489ef7ec404abdd21ddcc7a8c5b
+      internalID: 1811836674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 292
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8afe4937769e8346b9b00c42b433d12
+      internalID: -585834622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 293
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0218a499bfd83ae4886ffd99ea64b280
+      internalID: 939643525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b9494921b74c94fbaac22736c1e579
+      internalID: 571115972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82d517042370c418267191ae956577
+      internalID: -1566746614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f957effbc7aa274fb031673ff8bd258
+      internalID: 624040147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 302
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3626bccec56857d44a4acf2669433334
+      internalID: -128077847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 275
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bd981a8a51c0148b3fb6b98fa471c3
+      internalID: -1130342261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 268
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6d55663f58464c881ab7c3a6eae12
+      internalID: 1187546159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 268
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff8d8aedfc2d974fa3604470b2145c7
+      internalID: -1983558338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 268
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ea0c6e90d0f940a9fcb3b5cbb2d68
+      internalID: -219091924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 268
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c94dc7d3ab130845947410d1b5b6427
+      internalID: -1084420392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 269
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2b006784926c468b64f116a8bdd7b
+      internalID: -1875013732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 269
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f56fee274b85034a80509af9b4ae0f5
+      internalID: -2144727907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 269
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba4483b9b30a8a428917fd0b8b0c5fa
+      internalID: -1218615273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcee5d7be30a4d24d8636e81e5bb96cb
+      internalID: -981022374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 244
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988d14f5552c68c4e9019672f4e28daf
+      internalID: -1888664215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec09b3f1b7f03e49a33d482c699fb14
+      internalID: -359196499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 244
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128152762be4122409e601f52003c9f4
+      internalID: -265987675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 244
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3718f0341816980429fe52cb47f9b406
+      internalID: 2045396136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3506fc59e7ce340ad3fcec20dfb6a1
+      internalID: 594795541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 245
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320da3de8696a254db423e9eb12cf613
+      internalID: -642541859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 245
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ff6a5ee66b7145a22a53207109689
+      internalID: 2117473454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 245
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd18668eed970c4a9e12a77917dc843
+      internalID: -1074793342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 239
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2312b6009fb3ca4193f2e31e2392b39
+      internalID: 2102509031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 247
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c4d378306e5147859a638c9cc9166
+      internalID: 753465204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 249
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864c4bb39e44ebb47ae6a5fd30dd2a9a
+      internalID: 1949432449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 221
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78e8b7b6e0dc84abd4d121a794a63b
+      internalID: 2119272543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 222
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b4682d6551cc44d9ecffafab4ba3aa
+      internalID: -668370885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 231
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6afd40c41889814689369c4595faf0b
+      internalID: -736314631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42ad20b787ccfa43b332aadaedba44b
+      internalID: 1238857141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 234
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672fd0f4464d684791b26267c97ea9e
+      internalID: 508450387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 222
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e9f01f9f0f72649bbb79bc7945f2eb
+      internalID: -569934669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca52f0416f8a942ae74df1e13abd57
+      internalID: 789802523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 222
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04409fff4464c1b42b2ed3bc2b2f2e4c
+      internalID: -1529549188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 222
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62061bd09a56ed44b9330ea002566847
+      internalID: 172660128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 222
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c1ed3476a39046b01b58ba554ae76
+      internalID: -1124330702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 223
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c222d65678314d9bb456cde32a139
+      internalID: 787640482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 204
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb157306dde7bb4ab5393333ac0ff8d
+      internalID: 1952772669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 207
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41262a9cd128ffb45814b7feacc7867b
+      internalID: 660745098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 208
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7941da239940eb34f8a4bdc51d9bcbd8
+      internalID: 808641424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35898efb309d6a1428d64dfb3b07fd2e
+      internalID: -1605327139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 199
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d894c312fcf9d04fbff070de71aeb4b
+      internalID: -1213656474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 198
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0774fc250c90c44f89ef7be6dda01ff
+      internalID: -502566913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa64d8bdd254b874896c9535df134592
+      internalID: -2088858142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 197
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1eecc008ae81d4aa5ad702c7be952f
+      internalID: -1398405875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 197
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d5c100988ac64980b953efa45c4e5
+      internalID: -637807395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 198
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13ce75c3468f8e418abcf2d39fe2f89
+      internalID: 1628288410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 198
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaaa3ff860a9f640924cd59febddee4
+      internalID: 1190033833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 204
+        width: 46
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9525867a7f1a0a144bb7434867d17285
+      internalID: -835715696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 204
+        width: 46
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd488267ab7df8047911f57bdf57cce8
+      internalID: 1777562509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 184
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9aa494a2815f44887c77d60726383c
+      internalID: 1153336721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaa39c014bf971478b23e1e2b8ad1e0
+      internalID: -1695040357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 187
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a03eb8551a6248b0a8720a23ffc5d
+      internalID: 848950908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed9ed0284b0b684396a8bb2ecc42455
+      internalID: 1595210500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 174
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b9307af057795449af1306b519d6c1
+      internalID: 295342491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba681910b6755e428fd354a153efd02
+      internalID: 1331045862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 175
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a96b6cafd72a47897cc1977918b83
+      internalID: -1224585199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1a47c44f507b40b46e5eae6b905e8
+      internalID: 753609634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45720a253035da41b2fcd24368ad1ee
+      internalID: -1768900454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 175
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4168018d71149429df729ba48997a1
+      internalID: 776237544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 150
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30504c166e8d2642abed5ebf97ff8b7
+      internalID: -1952795774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 149
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8531d85eb66f5e48afdd3b6fe410aa7
+      internalID: 2083892795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe11c78fe7a5ce14ba3503d093e6c403
+      internalID: -1909993005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 149
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96318baa9df2804409a958f1f3b2df00
+      internalID: 1451491235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 153
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec26d1d0a7f4146965072d13ee8449
+      internalID: -1331996725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06505935e640a04084b87794c47f306
+      internalID: -1314367835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 151
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1c22e133b5a0646bac840b3965c5f5
+      internalID: -558850648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 150
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46057835990b7524892737838297f166
+      internalID: -1478532139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 148
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc836b0a559c5f04ab112024fdfb4124
+      internalID: -751543716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 142
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a3063d8556c7043a8d06c4f39f88d8
+      internalID: 684007029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 141
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402eaf7db727354eb4198e252e8d2c1
+      internalID: -921240685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 126
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca10d6327a3e85a4f8319d1e57fb2cfa
+      internalID: 1375452517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 126
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8b7a96baf4faf4fab5e8eefaae7c4e
+      internalID: -265253296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e002dacb21a48448685c16b558b478
+      internalID: 1842390514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dffc1645b4f6e419965385106848a4
+      internalID: -639657401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 125
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d109bed032829c45a2f88e64a400416
+      internalID: -1709862462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 126
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9c5fd31344c8468a1f75989699f92
+      internalID: 67216987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 127
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f030866b76fd290458ade67e59f3e8f5
+      internalID: -280765432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 102
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b256ce89c61e21140a407b9b9bf10495
+      internalID: 1135873826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 102
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94aab00d88413b468ae17f55cc51d3d
+      internalID: -667459158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 103
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2301feaaf34a9746acdb144a3165bd4
+      internalID: -1583510936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bca4094dd2db840809ea5cdfffee3b
+      internalID: 650338048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 103
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1c948825a9c8840bf8203b3f03637c
+      internalID: 113432203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38ba3b72fd06404da54ab0a24e41f72
+      internalID: -179489886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 101
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae53d1d837f3a746a1f4b906cb8ad37
+      internalID: 1797786125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 100
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc6da900f25454d8d77ac50ba5ef02
+      internalID: 453893707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 100
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257585262045834f8695bc49bdfb8c2
+      internalID: -1324830658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f55a82d6ad898a4c8ffba5ca7d95dbd
+      internalID: 907853563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 100
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1053e1ddc517a5948803b6a9e7ee7f35
+      internalID: -1065015185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 100
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fc4d02707edc64d9b97d2ac8d597c0
+      internalID: -1674524176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c1bb33ce05bdc4e95daff0fd510091
+      internalID: 1248701594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 76
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714ad6b9af7cc2240bd0f29af11f9a03
+      internalID: -1030630186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45926599fbb903743b5ea7246f06e82a
+      internalID: -2011025942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b216a2dd91ff6944ca6bc725e81e5128
+      internalID: -1052758044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea994b78d7a80e246a7e9185ddde5548
+      internalID: 299462568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66059183b6c180a48a856015cf7c0037
+      internalID: 935921897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 77
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a6b3f527913eb41b4d31ee1c26ea4c
+      internalID: 785172050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 78
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1cddfcefeb0f4429b7c79720df5a11
+      internalID: -1544390447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 52
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0640b2b73931e04b8c8eaa5d62799e2
+      internalID: 886811193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332669b7cd4e6194891f7586e94c96b9
+      internalID: -1811245963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e93db6b8bef14e8efd37b89d4e9e1
+      internalID: -1445147779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_0: 503883102
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_1: 165557005
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_10: -182299086
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_100: -921240685
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_101: 1375452517
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_102: -265253296
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_103: 1842390514
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_104: -639657401
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_105: -1709862462
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_106: 67216987
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_107: -280765432
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_108: 1135873826
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_109: -667459158
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_11: -1685815715
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_110: -1583510936
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_111: 650338048
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_112: 113432203
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_113: -179489886
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_114: 1797786125
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_115: 453893707
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_116: -1324830658
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_117: 907853563
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_118: -1065015185
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_119: -1674524176
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_12: -1629756123
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_120: 1248701594
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_121: -1030630186
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_122: -2011025942
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_123: -1052758044
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_124: 299462568
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_125: 935921897
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_126: 785172050
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_127: -1544390447
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_128: 886811193
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_129: -1811245963
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_13: 2053647147
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_130: -1445147779
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_131: 1753225031
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_132: -104834994
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_133: -1210398593
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_134: -546817220
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_135: -509968387
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_14: -1405443769
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_15: -2106553387
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_16: -1931700112
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_17: -1748720723
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_18: -2138305155
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_19: -1743826805
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_2: 614655358
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_20: -1985654609
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_21: 2044977639
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_22: 67233097
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_23: 81630627
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_24: -650391020
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_25: 1811836674
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_26: -585834622
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_27: 939643525
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_28: 571115972
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_29: -1566746614
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_3: 292439623
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_30: 624040147
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_31: -128077847
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_32: -1130342261
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_33: 1187546159
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_34: -1983558338
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_35: -219091924
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_36: -1084420392
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_37: -1875013732
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_38: -2144727907
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_39: -1218615273
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_4: -1169187916
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_40: -981022374
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_41: -1888664215
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_42: -359196499
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_43: -265987675
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_44: 2045396136
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_45: 594795541
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_46: -642541859
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_47: 2117473454
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_48: -1074793342
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_49: -532946268
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_5: -456965780
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_50: -1295358825
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_51: 2102509031
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_52: 753465204
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_53: 1949432449
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_54: 2119272543
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_55: -668370885
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_56: -736314631
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_57: 1238857141
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_58: 508450387
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_59: -569934669
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_6: 149222141
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_60: 789802523
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_61: -1529549188
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_62: 172660128
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_63: -1124330702
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_64: 787640482
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_65: 1952772669
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_66: 660745098
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_67: 808641424
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_68: -1605327139
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_69: -1213656474
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_7: -162529721
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_70: -502566913
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_71: -2088858142
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_72: -1398405875
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_73: -637807395
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_74: 1628288410
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_75: 1190033833
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_76: -835715696
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_77: 1777562509
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_78: 1153336721
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_79: -1695040357
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_8: 2145659717
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_80: 848950908
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_81: 1595210500
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_82: 295342491
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_83: 1331045862
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_84: -1224585199
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_85: 753609634
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_86: -1768900454
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_87: 776237544
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_88: -1952795774
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_89: 2083892795
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_9: 1805913818
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_90: -1909993005
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_91: 1451491235
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_92: -1331996725
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_93: -1314367835
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_94: -558850648
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_95: -1478532139
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_96: -751543716
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_97: 684007029
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_98: -1191541806
+      NES_-_Galaga_Demons_of_Death_-_Galaga-removebg-preview_99: -1018651102
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
